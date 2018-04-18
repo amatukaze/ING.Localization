@@ -1,0 +1,19 @@
+﻿{
+  "Application": {
+    "Title": "Intelligent Naval Gun",
+    "Settings": "Settings"
+  },
+  "SettingCategory": {
+    "Appearance": "Appearance",
+    "Theme": "Theme",
+    "Network": "Network",
+    "Browser": "Browser",
+    "Notification": "Notification",
+    "Game": "Game",
+    "Misc": "Misc"
+  },
+  "ViewTitle": {
+    "ApiDebug": "API Debug",
+    "MasterData": "Master Data"
+  }
+}
