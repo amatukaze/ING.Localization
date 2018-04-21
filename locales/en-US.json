@@ -1,7 +1,9 @@
 ﻿{
   "Application": {
     "Title": "Intelligent Naval Gun",
-    "Settings": "Settings"
+    "Settings": "Settings",
+    "OK": "OK",
+    "Cancel": "Cancel"
   },
   "SettingCategory": {
     "Appearance": "Appearance",
@@ -15,5 +17,13 @@
   "ViewTitle": {
     "ApiDebug": "API Debug",
     "MasterData": "Master Data"
+  },
+  "Settings": {
+    "UserFont": "User language font",
+    "ContentFont": "Game content font",
+    "SelectFont": "Select Font",
+    "Translate": "Translate game content",
+    "RestartRequired": "Will take effect after restart",
+    "SampleText": "Sample Text"
   }
 }

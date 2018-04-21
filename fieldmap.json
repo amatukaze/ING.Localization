@@ -1,4 +1,12 @@
 ﻿{
   "AppTitle.Text": "Application/Title",
-  "SettingsTitle.Text": "Application/Settings"
+  "SettingsTitle.Text": "Application/Settings",
+  "UserFont.Text": "Settings/UserFont",
+  "ContentFont.Text": "Settings/ContentFont",
+  "TraslateGameContent.Header": "Settings/Translate",
+  "RestartRequired.Text": "Settings/RestartRequired",
+  "SampleText.Text": "Settings/SampleText",
+  "FontPicker.Title": "Settings/SelectFont",
+  "FontPicker.PrimaryButtonText": "Application/OK",
+  "FontPicker.SecondaryButtonText": "Application/Cancel"
 }

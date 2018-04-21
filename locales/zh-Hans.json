@@ -1,7 +1,9 @@
 ﻿{
   "Application": {
     "Title": "智能型连装炮君",
-    "Settings": "设置"
+    "Settings": "设置",
+    "OK": "确认",
+    "Cancel": "取消"
   },
   "SettingCategory": {
     "Appearance": "界面",
@@ -11,5 +13,13 @@
     "Notification": "通知",
     "Game": "游戏",
     "Misc": "杂项"
+  },
+  "Settings": {
+    "UserFont": "用户语言字体",
+    "ContentFont": "游戏内容字体",
+    "SelectFont": "选择字体",
+    "Translate": "翻译游戏内容",
+    "RestartRequired": "重启后生效",
+    "SampleText": "测试文本 Sample Text"
   }
 }
