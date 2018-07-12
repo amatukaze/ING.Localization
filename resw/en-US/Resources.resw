@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AppTitle.Text">
+    <value>Intelligent Naval Gun</value>
+  </data>
+  <data name="SettingsTitle.Text">
+    <value>Settings</value>
+  </data>
+  <data name="UserFont.Text">
+    <value>User language font</value>
+  </data>
+  <data name="ContentFont.Text">
+    <value>Game content font</value>
+  </data>
+  <data name="TraslateGameContent.Header">
+    <value>Translate game content</value>
+  </data>
+  <data name="RestartRequired.Text">
+    <value>Will take effect after restart</value>
+  </data>
+  <data name="SampleText.Text">
+    <value>Sample Text</value>
+  </data>
+  <data name="FontPicker.Title">
+    <value>Select Font</value>
+  </data>
+  <data name="FontPicker.PrimaryButtonText">
+    <value>OK</value>
+  </data>
+  <data name="FontPicker.SecondaryButtonText">
+    <value>Cancel</value>
+  </data>
+</root>

@@ -25,7 +25,7 @@ namespace buildresw
             }
             string root = args[0];
             string locales = Path.Combine(root, "locales");
-            string output = Path.Combine(root, "artifacts", "resw");
+            string output = Path.Combine(root, "resw");
             if (Directory.Exists(output))
                 Directory.Delete(output, true);
 
