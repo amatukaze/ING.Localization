@@ -3,7 +3,8 @@
     "Title": "Intelligent Naval Gun",
     "Settings": "Settings",
     "OK": "OK",
-    "Cancel": "Cancel"
+    "Cancel": "Cancel",
+    "Time": "Time"
   },
   "SettingCategory": {
     "Appearance": "Appearance",
@@ -16,7 +17,11 @@
   },
   "ViewTitle": {
     "ApiDebug": "API Debug",
-    "MasterData": "Master Data"
+    "MasterData": "Gallery",
+    "LogMigration": "Log Migration",
+    "ShipCreationLogs": "Ship construction record",
+    "EquipmentCreationLogs": "Equipment development record",
+    "ExpeditionCompletionLogs": "Expedition record"
   },
   "Settings": {
     "UserFont": "User language font",
@@ -25,5 +30,38 @@
     "Translate": "Translate game content",
     "RestartRequired": "Will take effect after restart",
     "SampleText": "Sample Text"
+  },
+  "Logging": {
+    "DoMigrate": "Import",
+    "MigrationFailed": "Migration failed",
+    "MigrationCompleted": "Migration completed",
+    "MigrationCount": "Migration successfully completed for {0} items.",
+    "CannotMigrate": "Can't migrate",
+    "PlayerNotLoaded": "Game player not loaded.",
+    "Construction_EmptyDockCount": "Empty Docks",
+    "Expedition_Item1": "Item1",
+    "Expedition_Item2": "Item2"
+  },
+  "GameModel": {
+    "Material_Fuel": "Fuel",
+    "Material_Bullet": "Bullet",
+    "Material_Steel": "Steel",
+    "Material_Bauxite": "Bauxite",
+    "Material_Development": "Development material",
+    "Material_Improvement": "Improvement material",
+    "Material_InstantBuild": "Instant build",
+    "Material_InstantRepair": "Instant repair",
+    "Level": "Level",
+    "Secretary": "Secretary",
+    "AdmiralLevel": "HQ Level",
+    "AdmiralLevel_Short": "HQ Lv.",
+    "ConstructionType": "Construction type",
+    "ConstructionType_Normal": "NSC",
+    "ConstructionType_Large": "LSC",
+    "Result": "Result",
+    "Success": "Success",
+    "Fail": "Fail",
+    "GreatSuccess": "Great Success",
+    "UseItem": "Item"
   }
 }

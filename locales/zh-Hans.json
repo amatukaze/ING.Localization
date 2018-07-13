@@ -3,7 +3,8 @@
     "Title": "智能型连装炮君",
     "Settings": "设置",
     "OK": "确认",
-    "Cancel": "取消"
+    "Cancel": "取消",
+    "Time": "时间"
   },
   "SettingCategory": {
     "Appearance": "界面",
@@ -14,6 +15,14 @@
     "Game": "游戏",
     "Misc": "杂项"
   },
+  "ViewTitle": {
+    "ApiDebug": "API调试",
+    "MasterData": "图鉴",
+    "LogMigration": "记录导入",
+    "ShipCreationLogs": "建造记录",
+    "EquipmentCreationLogs": "开发记录",
+    "ExpeditionCompletionLogs": "远征记录"
+  },
   "Settings": {
     "UserFont": "用户语言字体",
     "ContentFont": "游戏内容字体",
@@ -21,5 +30,38 @@
     "Translate": "翻译游戏内容",
     "RestartRequired": "重启后生效",
     "SampleText": "测试文本 Sample Text"
+  },
+  "Logging": {
+    "DoMigrate": "导入",
+    "MigrationFailed": "导入失败",
+    "MigrationCompleted": "导入完成",
+    "MigrationCount": "成功导入了{0}项。",
+    "CannotMigrate": "无法导入",
+    "PlayerNotLoaded": "未加载游戏玩家信息。",
+    "Construction_EmptyDockCount": "空渠数",
+    "Expedition_Item1": "物品1",
+    "Expedition_Item2": "物品2"
+  },
+  "GameModel": {
+    "Material_Fuel": "燃料",
+    "Material_Bullet": "弹药",
+    "Material_Steel": "钢材",
+    "Material_Bauxite": "铝土",
+    "Material_Development": "开发资材",
+    "Material_Improvement": "改修资材",
+    "Material_InstantBuild": "高速建造",
+    "Material_InstantRepair": "高速修复",
+    "Level": "等级",
+    "Secretary": "秘书舰",
+    "AdmiralLevel": "提督等级",
+    "AdmiralLevel_Short": "提督等级",
+    "ConstructionType": "建造类型",
+    "ConstructionType_Normal": "通常舰建造",
+    "ConstructionType_Large": "大型舰建造",
+    "Result": "结果",
+    "Success": "成功",
+    "Fail": "失败",
+    "GreatSuccess": "大成功",
+    "UseItem": "物品"
   }
 }
