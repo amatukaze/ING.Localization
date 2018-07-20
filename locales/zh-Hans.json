@@ -62,6 +62,8 @@
     "Success": "成功",
     "Fail": "失败",
     "GreatSuccess": "大成功",
-    "UseItem": "物品"
+    "UseItem": "物品",
+    "EquipmentType": "装备类型",
+    "Expedition": "远征"
   }
 }

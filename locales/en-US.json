@@ -62,6 +62,8 @@
     "Success": "Success",
     "Fail": "Fail",
     "GreatSuccess": "Great Success",
-    "UseItem": "Item"
+    "UseItem": "Item",
+    "EquipmentType": "Equipment Type",
+    "Expedition": "Expedition"
   }
 }
