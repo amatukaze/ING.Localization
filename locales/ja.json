@@ -1,5 +1,69 @@
 ﻿{
   "Application": {
-    "Title": "Intelligent Naval Gun"
+    "Title": "いんてりじぇんと連装砲くん",
+    "Settings": "設定",
+    "OK": "OK",
+    "Cancel": "キャンセル",
+    "Time": "日時"
+  },
+  "SettingCategory": {
+    "Appearance": "UI",
+    "Theme": "テーマ",
+    "Network": "通信",
+    "Browser": "ブラウザ",
+    "Notification": "通知",
+    "Game": "ゲーム",
+    "Misc": "その他"
+  },
+  "ViewTitle": {
+    "ApiDebug": "API デバッグ",
+    "MasterData": "図鑑",
+    "LogMigration": "データを取り込む",
+    "ShipCreationLogs": "建造歴史",
+    "EquipmentCreationLogs": "開発歴史",
+    "ExpeditionCompletionLogs": "遠征歴史"
+  },
+  "Settings": {
+    "UserFont": "UI フォント",
+    "ContentFont": "ゲームテキストフォント",
+    "SelectFont": "フォントを選択",
+    "Translate": "ゲームテキストを翻訳",
+    "RestartRequired": "再起動が必要",
+    "SampleText": "サンプルテキスト Sample Text"
+  },
+  "Logging": {
+    "DoMigrate": "取り込み",
+    "MigrationFailed": "データの読み込みに失敗しました",
+    "MigrationCompleted": "データの読み込みに成功しました",
+    "MigrationCount": "{0}件を読み込みしました。",
+    "CannotMigrate": "データを取り込みできませんでした",
+    "PlayerNotLoaded": "プレイヤーデータがロードされていない",
+    "Construction_EmptyDockCount": "空ドック",
+    "Expedition_Item1": "アイテム1",
+    "Expedition_Item2": "アイテム2"
+  },
+  "GameModel": {
+    "Material_Fuel": "燃料",
+    "Material_Bullet": "弾薬",
+    "Material_Steel": "鋼材",
+    "Material_Bauxite": "ボーキサイト",
+    "Material_Development": "開発資材",
+    "Material_Improvement": "改修資材",
+    "Material_InstantBuild": "高速建造材",
+    "Material_InstantRepair": "高速修復材",
+    "Level": "レベル",
+    "Secretary": "秘書艦",
+    "AdmiralLevel": "提督レベル",
+    "AdmiralLevel_Short": "提督レベル",
+    "ConstructionType": "建造タイプ",
+    "ConstructionType_Normal": "通常舰建造",
+    "ConstructionType_Large": "大型舰建造",
+    "Result": "結果",
+    "Success": "成功",
+    "Fail": "失敗",
+    "GreatSuccess": "大成功",
+    "UseItem": "アイテム",
+    "EquipmentType": "装備タイプ",
+    "Expedition": "遠征"
   }
 }
