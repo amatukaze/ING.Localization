@@ -64,6 +64,26 @@
     "GreatSuccess": "Great Success",
     "UseItem": "Item",
     "EquipmentType": "Equipment Type",
-    "Expedition": "Expedition"
+    "Expedition": "Expedition",
+    "AdmiralRank_1": "Marshal Admiral",
+    "AdmiralRank_2": "Admiral",
+    "AdmiralRank_3": "Vice Admiral",
+    "AdmiralRank_4": "Rear Admiral",
+    "AdmiralRank_5": "Captain",
+    "AdmiralRank_6": "Commander",
+    "AdmiralRank_7": "Novice Commander",
+    "AdmiralRank_8": "Lieutenant",
+    "AdmiralRank_9": "Vice Lieutenant",
+    "AdmiralRank_10": "Novice Lieutenant",
+    "FireRange_0": "Very Short",
+    "FireRange_1": "Short",
+    "FireRange_2": "Medium",
+    "FireRange_3": "Long",
+    "FireRange_4": "Very Long",
+    "ShipSpeed_0": "Land Base",
+    "ShipSpeed_5": "Slow",
+    "ShipSpeed_10": "Fast",
+    "ShipSpeed_15": "Fast+",
+    "ShipSpeed_20": "Ultra Fast"
   }
 }

@@ -64,6 +64,26 @@
     "GreatSuccess": "大成功",
     "UseItem": "アイテム",
     "EquipmentType": "装備タイプ",
-    "Expedition": "遠征"
+    "Expedition": "遠征",
+    "AdmiralRank_1": "元帥",
+    "AdmiralRank_2": "大将",
+    "AdmiralRank_3": "中将",
+    "AdmiralRank_4": "少将",
+    "AdmiralRank_5": "大佐",
+    "AdmiralRank_6": "中佐",
+    "AdmiralRank_7": "新米中佐",
+    "AdmiralRank_8": "少佐",
+    "AdmiralRank_9": "中堅少佐",
+    "AdmiralRank_10": "新米少佐",
+    "FireRange_0": "超短",
+    "FireRange_1": "短",
+    "FireRange_2": "中",
+    "FireRange_3": "長",
+    "FireRange_4": "超長",
+    "ShipSpeed_0": "陸上基地",
+    "ShipSpeed_5": "低速",
+    "ShipSpeed_10": "高速",
+    "ShipSpeed_15": "高速+",
+    "ShipSpeed_20": "最速"
   }
 }
