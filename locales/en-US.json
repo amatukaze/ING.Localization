@@ -21,7 +21,11 @@
     "LogMigration": "Log Migration",
     "ShipCreationLogs": "Ship construction record",
     "EquipmentCreationLogs": "Equipment development record",
-    "ExpeditionCompletionLogs": "Expedition record"
+    "ExpeditionCompletionLogs": "Expedition record",
+    "Admiral": "Admiral information",
+    "Fleets": "Fleets overview",
+    "Docks": "Docks overview",
+    "Expedition": "Expedition overview"
   },
   "Settings": {
     "UserFont": "User language font",
@@ -29,7 +33,11 @@
     "SelectFont": "Select Font",
     "Translate": "Translate game content",
     "RestartRequired": "Will take effect after restart",
-    "SampleText": "Sample Text"
+    "SampleText": "Sample Text",
+    "ListeningPort": "Listening port",
+    "UseUpstream": "Use upstream proxy",
+    "UpstreamAddress": "Upstream address",
+    "UpstreamPort": "Upstream port"
   },
   "Logging": {
     "DoMigrate": "Import",
@@ -84,6 +92,21 @@
     "ShipSpeed_5": "Slow",
     "ShipSpeed_10": "Fast",
     "ShipSpeed_15": "Fast+",
-    "ShipSpeed_20": "Ultra Fast"
+    "ShipSpeed_20": "Ultra Fast",
+    "Count_Ship": "Ships count: ",
+    "Count_Equipment": "Equipment count: ",
+    "Build": "Build",
+    "Repair": "Repair",
+    "Dock_Empty": "Empty",
+    "Dock_Locked": "Locked",
+    "FleetStatus_Detail_Empty": "Fleet is empty",
+    "FleetStatus_Detail_Ready": "Ready",
+    "FleetStatus_Detail_Sortie": "In sortie",
+    "FleetStatus_Detail_Warning": "In sortie",
+    "FleetStatus_Detail_Expedition": "In expedition",
+    "FleetStatus_Detail_Fatigued": "Morale regenerating",
+    "FleetStatus_Detail_Repairing": "Repairing in dock",
+    "FleetStatus_Detail_Damaged": "Ship is heavily damaged",
+    "FleetStatus_Detail_Insufficient": "Supply required"
   }
 }

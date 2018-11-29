@@ -21,7 +21,11 @@
     "LogMigration": "データを取り込む",
     "ShipCreationLogs": "建造歴史",
     "EquipmentCreationLogs": "開発歴史",
-    "ExpeditionCompletionLogs": "遠征歴史"
+    "ExpeditionCompletionLogs": "遠征歴史",
+    "Admiral": "司令部情報",
+    "Fleets": "艦隊一覧",
+    "Docks": "ドック一覧",
+    "Expedition": "遠征一覧"
   },
   "Settings": {
     "UserFont": "UI フォント",
@@ -84,6 +88,21 @@
     "ShipSpeed_5": "低速",
     "ShipSpeed_10": "高速",
     "ShipSpeed_15": "高速+",
-    "ShipSpeed_20": "最速"
+    "ShipSpeed_20": "最速",
+    "Count_Ship": "艦娘数：",
+    "Count_Equipment": "装備数：",
+    "Build": "建造",
+    "Repair": "入渠",
+    "Dock_Empty": "空き",
+    "Dock_Locked": "ロック",
+    "FleetStatus_Detail_Empty": "艦隊は空き",
+    "FleetStatus_Detail_Ready": "準備完了",
+    "FleetStatus_Detail_Sortie": "出撃中",
+    "FleetStatus_Detail_Warning": "出撃中",
+    "FleetStatus_Detail_Expedition": "遠征中",
+    "FleetStatus_Detail_Fatigued": "疲労回復中",
+    "FleetStatus_Detail_Repairing": "入渠修理中",
+    "FleetStatus_Detail_Damaged": "大破の艦娘があります",
+    "FleetStatus_Detail_Insufficient": "補給が必要"
   }
 }

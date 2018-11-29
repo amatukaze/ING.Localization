@@ -21,7 +21,11 @@
     "LogMigration": "记录导入",
     "ShipCreationLogs": "建造记录",
     "EquipmentCreationLogs": "开发记录",
-    "ExpeditionCompletionLogs": "远征记录"
+    "ExpeditionCompletionLogs": "远征记录",
+    "Admiral": "司令部信息",
+    "Fleets": "舰队一览",
+    "Docks": "船渠一览",
+    "Expedition": "远征一览"
   },
   "Settings": {
     "UserFont": "用户语言字体",
@@ -29,7 +33,11 @@
     "SelectFont": "选择字体",
     "Translate": "翻译游戏内容",
     "RestartRequired": "重启后生效",
-    "SampleText": "测试文本 Sample Text"
+    "SampleText": "测试文本 Sample Text",
+    "ListeningPort": "监听端口",
+    "UseUpstream": "使用上游代理",
+    "UpstreamAddress": "上游代理地址",
+    "UpstreamPort": "上游代理端口"
   },
   "Logging": {
     "DoMigrate": "导入",
@@ -84,6 +92,21 @@
     "ShipSpeed_5": "低速",
     "ShipSpeed_10": "高速",
     "ShipSpeed_15": "高速+",
-    "ShipSpeed_20": "最速"
+    "ShipSpeed_20": "最速",
+    "Count_Ship": "舰娘数：",
+    "Count_Equipment": "装备数：",
+    "Build": "建造",
+    "Repair": "入渠",
+    "Dock_Empty": "未使用",
+    "Dock_Locked": "未开放",
+    "FleetStatus_Detail_Empty": "舰队为空",
+    "FleetStatus_Detail_Ready": "就绪",
+    "FleetStatus_Detail_Sortie": "出击中",
+    "FleetStatus_Detail_Warning": "出击中",
+    "FleetStatus_Detail_Expedition": "远征中",
+    "FleetStatus_Detail_Fatigued": "疲劳回复中",
+    "FleetStatus_Detail_Repairing": "入渠修理中",
+    "FleetStatus_Detail_Damaged": "有舰娘处于大破状态",
+    "FleetStatus_Detail_Insufficient": "需要补给"
   }
 }
