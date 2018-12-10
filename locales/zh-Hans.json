@@ -99,14 +99,14 @@
     "Repair": "入渠",
     "Dock_Empty": "未使用",
     "Dock_Locked": "未开放",
-    "FleetStatus_Detail_Empty": "舰队为空",
-    "FleetStatus_Detail_Ready": "就绪",
-    "FleetStatus_Detail_Sortie": "出击中",
-    "FleetStatus_Detail_Warning": "出击中",
-    "FleetStatus_Detail_Expedition": "远征中",
-    "FleetStatus_Detail_Fatigued": "疲劳回复中",
-    "FleetStatus_Detail_Repairing": "入渠修理中",
-    "FleetStatus_Detail_Damaged": "有舰娘处于大破状态",
-    "FleetStatus_Detail_Insufficient": "需要补给"
+    "FleetState_Detail_Empty": "舰队为空",
+    "FleetState_Detail_Ready": "就绪",
+    "FleetState_Detail_Sortie": "出击中",
+    "FleetState_Detail_Warning": "出击中",
+    "FleetState_Detail_Expedition": "远征中",
+    "FleetState_Detail_Fatigued": "疲劳回复中",
+    "FleetState_Detail_Repairing": "入渠修理中",
+    "FleetState_Detail_Damaged": "有舰娘处于大破状态",
+    "FleetState_Detail_Insufficient": "需要补给"
   }
 }

@@ -99,14 +99,14 @@
     "Repair": "Repair",
     "Dock_Empty": "Empty",
     "Dock_Locked": "Locked",
-    "FleetStatus_Detail_Empty": "Fleet is empty",
-    "FleetStatus_Detail_Ready": "Ready",
-    "FleetStatus_Detail_Sortie": "In sortie",
-    "FleetStatus_Detail_Warning": "In sortie",
-    "FleetStatus_Detail_Expedition": "In expedition",
-    "FleetStatus_Detail_Fatigued": "Morale regenerating",
-    "FleetStatus_Detail_Repairing": "Repairing in dock",
-    "FleetStatus_Detail_Damaged": "Ship is heavily damaged",
-    "FleetStatus_Detail_Insufficient": "Supply required"
+    "FleetState_Detail_Empty": "Fleet is empty",
+    "FleetState_Detail_Ready": "Ready",
+    "FleetState_Detail_Sortie": "In sortie",
+    "FleetState_Detail_Warning": "In sortie",
+    "FleetState_Detail_Expedition": "In expedition",
+    "FleetState_Detail_Fatigued": "Morale regenerating",
+    "FleetState_Detail_Repairing": "Repairing in dock",
+    "FleetState_Detail_Damaged": "Ship is heavily damaged",
+    "FleetState_Detail_Insufficient": "Supply required"
   }
 }

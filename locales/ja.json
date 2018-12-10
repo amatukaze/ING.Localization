@@ -95,14 +95,14 @@
     "Repair": "入渠",
     "Dock_Empty": "空き",
     "Dock_Locked": "ロック",
-    "FleetStatus_Detail_Empty": "艦隊は空き",
-    "FleetStatus_Detail_Ready": "準備完了",
-    "FleetStatus_Detail_Sortie": "出撃中",
-    "FleetStatus_Detail_Warning": "出撃中",
-    "FleetStatus_Detail_Expedition": "遠征中",
-    "FleetStatus_Detail_Fatigued": "疲労回復中",
-    "FleetStatus_Detail_Repairing": "入渠修理中",
-    "FleetStatus_Detail_Damaged": "大破の艦娘があります",
-    "FleetStatus_Detail_Insufficient": "補給が必要"
+    "FleetState_Detail_Empty": "艦隊は空き",
+    "FleetState_Detail_Ready": "準備完了",
+    "FleetState_Detail_Sortie": "出撃中",
+    "FleetState_Detail_Warning": "出撃中",
+    "FleetState_Detail_Expedition": "遠征中",
+    "FleetState_Detail_Fatigued": "疲労回復中",
+    "FleetState_Detail_Repairing": "入渠修理中",
+    "FleetState_Detail_Damaged": "大破の艦娘があります",
+    "FleetState_Detail_Insufficient": "補給が必要"
   }
 }
