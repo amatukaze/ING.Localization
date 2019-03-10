@@ -22,6 +22,7 @@
     "ShipCreationLogs": "建造记录",
     "EquipmentCreationLogs": "开发记录",
     "ExpeditionCompletionLogs": "远征记录",
+    "BattleLogs": "战斗/掉落记录",
     "Admiral": "司令部信息",
     "Fleets": "舰队一览",
     "Docks": "船渠一览",
@@ -107,6 +108,23 @@
     "FleetState_Detail_Fatigued": "疲劳回复中",
     "FleetState_Detail_Repairing": "入渠修理中",
     "FleetState_Detail_Damaged": "有舰娘处于大破状态",
-    "FleetState_Detail_Insufficient": "需要补给"
+    "FleetState_Detail_Insufficient": "需要补给",
+    "Details": "详情"
+  },
+  "Combat": {
+    "MapId": "地图",
+    "MapName": "海域名",
+    "RouteId": "地点",
+    "EnemyFleetName": "敌舰队名",
+    "Rank": "胜利评价",
+    "ShipDrop": "掉落舰娘",
+    "UseItemDrop": "掉落物品",
+    "BattleRank_Perfect": "完全胜利S",
+    "BattleRank_S": "胜利S",
+    "BattleRank_A": "胜利A",
+    "BattleRank_B": "战术的胜利B",
+    "BattleRank_C": "战术的败北C",
+    "BattleRank_D": "败北D",
+    "BattleRank_E": "败北E"
   }
 }

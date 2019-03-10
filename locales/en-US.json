@@ -22,6 +22,7 @@
     "ShipCreationLogs": "Ship construction record",
     "EquipmentCreationLogs": "Equipment development record",
     "ExpeditionCompletionLogs": "Expedition record",
+    "BattleLogs": "Drop/battle record",
     "Admiral": "Admiral information",
     "Fleets": "Fleets overview",
     "Docks": "Docks overview",
@@ -107,6 +108,23 @@
     "FleetState_Detail_Fatigued": "Morale regenerating",
     "FleetState_Detail_Repairing": "Repairing in dock",
     "FleetState_Detail_Damaged": "Ship is heavily damaged",
-    "FleetState_Detail_Insufficient": "Supply required"
+    "FleetState_Detail_Insufficient": "Supply required",
+    "Details": "Details"
+  },
+  "Combat": {
+    "MapId": "Map",
+    "MapName": "Map name",
+    "RouteId": "Point",
+    "EnemyFleetName": "Enemy fleet",
+    "Rank": "Victory Rank",
+    "ShipDrop": "Dropped ship",
+    "UseItemDrop": "Dropped item",
+    "BattleRank_Perfect": "Total Victory S",
+    "BattleRank_S": "Victory S",
+    "BattleRank_A": "Victory A",
+    "BattleRank_B": "Tactical Victory B",
+    "BattleRank_C": "Tactical Defeat C",
+    "BattleRank_D": "Defeat D",
+    "BattleRank_E": "Defeat E"
   }
 }
