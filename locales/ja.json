@@ -105,7 +105,20 @@
     "FleetState_Detail_Repairing": "入渠修理中",
     "FleetState_Detail_Damaged": "大破の艦娘があります",
     "FleetState_Detail_Insufficient": "補給が必要",
-    "Details": "詳細"
+    "Details": "詳細",
+    "Cost_Supply": "補給消费",
+    "Cost_Repair": "入渠消费",
+    "AirFightingPower": "制空",
+    "LineOfSight": "索敵",
+    "LineOfSight_Simple": "Simple sum",
+    "LineOfSight_Factor1": "分岐係数1",
+    "LineOfSight_Factor2": "分岐係数2",
+    "LineOfSight_Factor3": "分岐係数3",
+    "LineOfSight_Factor4": "分岐係数4",
+    "LineOfSight_Baseline": "定数",
+    "LineOfSight_Multiplied": "乘数",
+    "LineOfSight_FromLevel": "レベルから",
+    "LineOfSight_AtMaxLevel": "最大レベル时"
   },
   "Combat": {
     "MapId": "マップ",

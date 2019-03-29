@@ -109,7 +109,20 @@
     "FleetState_Detail_Repairing": "Repairing in dock",
     "FleetState_Detail_Damaged": "Ship is heavily damaged",
     "FleetState_Detail_Insufficient": "Supply required",
-    "Details": "Details"
+    "Details": "Details",
+    "Cost_Supply": "Supplying Cost",
+    "Cost_Repair": "Repairing Cost",
+    "AirFightingPower": "AFP",
+    "LineOfSight": "LoS",
+    "LineOfSight_Simple": "Simple sum",
+    "LineOfSight_Factor1": "Factor=1",
+    "LineOfSight_Factor2": "Factor=2",
+    "LineOfSight_Factor3": "Factor=3",
+    "LineOfSight_Factor4": "Factor=4",
+    "LineOfSight_Baseline": "Base",
+    "LineOfSight_Multiplied": "Multiplied",
+    "LineOfSight_FromLevel": "From level",
+    "LineOfSight_AtMaxLevel": "At Lv. max"
   },
   "Combat": {
     "MapId": "Map",
