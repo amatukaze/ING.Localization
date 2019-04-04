@@ -191,6 +191,25 @@
     "SupportPhase": "支援艦隊",
     "NightPhase": "夜戦",
     "NightPhase_Combined": "連合艦隊夜戦{0}巡目",
-    "NpcPhase": "友軍艦隊"
+    "NpcPhase": "友軍艦隊",
+    "MapEventKind_0": "初期位置",
+    "MapEventKind_1": "戦闘なし",
+    "MapEventKind_2": "資源獲得",
+    "MapEventKind_3": "渦潮",
+    "MapEventKind_4": "戦闘",
+    "MapEventKind_5": "ボス",
+    "MapEventKind_6": "戦闘なし",
+    "MapEventKind_7": "航空偵察",
+    "MapEventKind_8": "船団護衛成功",
+    "MapEventKind_9": "揚陸地点",
+    "BattleKind_1": "通常戦闘",
+    "BattleKind_2": "夜戦",
+    "BattleKind_3": "夜昼戦",
+    "BattleKind_4": "航空戦",
+    "BattleKind_5": "連合艦隊戦",
+    "BattleKind_6": "敵空襲",
+    "BattleKind_7": "連合艦隊夜戦",
+    "BattleKind_8": "敵レーダー射撃",
+    "SelectableRoute": "能動分岐"
   }
 }

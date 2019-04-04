@@ -195,6 +195,25 @@
     "SupportPhase": "支援舰队",
     "NightPhase": "夜战",
     "NightPhase_Combined": "联合舰队夜战第{0}轮",
-    "NpcPhase": "友军舰队"
+    "NpcPhase": "友军舰队",
+    "MapEventKind_0": "初始地点",
+    "MapEventKind_1": "无战斗",
+    "MapEventKind_2": "资源",
+    "MapEventKind_3": "漩涡",
+    "MapEventKind_4": "战斗",
+    "MapEventKind_5": "BOSS战",
+    "MapEventKind_6": "无战斗",
+    "MapEventKind_7": "航空侦察",
+    "MapEventKind_8": "船团护卫成功",
+    "MapEventKind_9": "登录地点",
+    "BattleKind_1": "通常战斗",
+    "BattleKind_2": "夜战",
+    "BattleKind_3": "夜转昼",
+    "BattleKind_4": "航空战",
+    "BattleKind_5": "联合舰队战",
+    "BattleKind_6": "敌空袭",
+    "BattleKind_7": "联合舰队夜战",
+    "BattleKind_8": "敌雷达射击",
+    "SelectableRoute": "能动分歧"
   }
 }

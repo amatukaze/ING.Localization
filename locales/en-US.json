@@ -195,6 +195,25 @@
     "SupportPhase": "Support fire",
     "NightPhase": "Night battle",
     "NightPhase_Combined": "Combined night battle phase {0}",
-    "NpcPhase": "NPC fleet"
+    "NpcPhase": "NPC fleet",
+    "MapEventKind_0": "Initial",
+    "MapEventKind_1": "No battle",
+    "MapEventKind_2": "Materials get",
+    "MapEventKind_3": "Materials lost",
+    "MapEventKind_4": "Battle",
+    "MapEventKind_5": "BOSS",
+    "MapEventKind_6": "No battle",
+    "MapEventKind_7": "Aerial reconniance",
+    "MapEventKind_8": "Transport finish",
+    "MapEventKind_9": "Landing point",
+    "BattleKind_1": "Normal battle",
+    "BattleKind_2": "Night battle",
+    "BattleKind_3": "Night to day",
+    "BattleKind_4": "Aerial battle",
+    "BattleKind_5": "Combined fleet",
+    "BattleKind_6": "Air raid",
+    "BattleKind_7": "Combined night battle",
+    "BattleKind_8": "Radar raid",
+    "SelectableRoute": "Selectable Route"
   }
 }
