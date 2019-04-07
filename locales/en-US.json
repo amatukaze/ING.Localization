@@ -122,7 +122,11 @@
     "LineOfSight_Baseline": "Base",
     "LineOfSight_Multiplied": "Multiplied",
     "LineOfSight_FromLevel": "From level",
-    "LineOfSight_AtMaxLevel": "At Lv. max"
+    "LineOfSight_AtMaxLevel": "At Lv. max",
+    "AbyssalClass_Elite": "elite",
+    "AbyssalClass_Flagship": "flagship",
+    "AbyssalClass_Remodel": " Kai",
+    "AbyssalClass_LateModel": " Late"
   },
   "Combat": {
     "MapId": "Map",

@@ -118,7 +118,11 @@
     "LineOfSight_Baseline": "定数",
     "LineOfSight_Multiplied": "乘数",
     "LineOfSight_FromLevel": "レベルから",
-    "LineOfSight_AtMaxLevel": "最大レベル时"
+    "LineOfSight_AtMaxLevel": "最大レベル时",
+    "AbyssalClass_Elite": "elite",
+    "AbyssalClass_Flagship": "flagship",
+    "AbyssalClass_Remodel": "改",
+    "AbyssalClass_LateModel": "後期型"
   },
   "Combat": {
     "MapId": "マップ",

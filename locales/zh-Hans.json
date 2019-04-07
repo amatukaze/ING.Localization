@@ -122,7 +122,11 @@
     "LineOfSight_Baseline": "固定值",
     "LineOfSight_Multiplied": "倍率值",
     "LineOfSight_FromLevel": "来自等级",
-    "LineOfSight_AtMaxLevel": "满级时"
+    "LineOfSight_AtMaxLevel": "满级时",
+    "AbyssalClass_Elite": "elite",
+    "AbyssalClass_Flagship": "flagship",
+    "AbyssalClass_Remodel": "改",
+    "AbyssalClass_LateModel": "后期型"
   },
   "Combat": {
     "MapId": "地图",
